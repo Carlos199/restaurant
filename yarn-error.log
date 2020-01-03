@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-navegation
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\RailsInstaller\ImageMagick-7.0.4-Q16;C:\ImageMagick-7.0.4-Q8;C:\ImageMagick;C:\Program Files\ImageMagick-7.0.2-Q16;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Bitvise SSH Client;C:\ImageMagick;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\nodejs\;C:\Program Files\Java\jdk1.8.0_101;C:\RailsInstaller\Ruby2.3.0;C:\Ruby22\bin;C:\Program Files\nodejs;C:\Ruby22\bin\wkhtmltopdf;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\MySQL\MySQL Server 5.1\bin;C:\wamp\bin\php\php5.4.3;C:\ProgramData\ComposerSetup\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.2.0\bin;C:\Ruby22\bin;C:\Users\Luis Carlos\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\Luis Carlos\AppData\Local\Programs\Python\Python35-32\;C:\Users\Luis Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.5;C:\Program Files\ImageMagick-7.0.2-Q16;C:\MinGW\bin;ImageMagick-7.0.4-Q8;C:\ImageMagick;C:\Ruby22\bin;C:\Program Files\nodejs;C:\Ruby22\bin\wkhtmltopdf;C:\Program Files\Heroku\bin;C:\Users\Luis Carlos\.heroku\client\bin;C:\Program Files\nodejs\node_modules\npm;C:\posgresql\bin;C:\posgresql;C:\Users\Luis Carlos\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\4.0\bin;C:\Users\Luis Carlos\AppData\Roaming\Composer\vendor\bin;C:\xampp\php\php.ini;C:\Users\Luis Carlos\AppData\Roaming\npm;C:\Users\Luis Carlos\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.19.0
+
+Node version: 
+  10.16.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/react-navegation: Not found
+      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66027:18)
+      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140539:22)
+      at Request.emit (events.js:198:13)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141511:10)
+      at Request.emit (events.js:198:13)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141433:12)
+      at Object.onceWrapper (events.js:286:20)
+      at IncomingMessage.emit (events.js:203:15)
+      at endReadableNT (_stream_readable.js:1145:12)
+      at process._tickCallback (internal/process/next_tick.js:63:19)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
